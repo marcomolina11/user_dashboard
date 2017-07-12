@@ -34,28 +34,6 @@ form.form-inline label {
 .description {
 	margin: 10px;
 }
-
-.glyphicon{
-	font-size: 75px;
-	margin-top: 25px;
-}
-
-.glyphicon-cloud {
-	color: #294FF9;
-}
-
-.glyphicon-leaf {
-	color: #129B3D;
-}
-
-.glyphicon-fire {
-	color: #ED710C;
-}
-
-.glyphicon-tint {
-	color: #04C7C7;
-}
-
 table label {
 	padding: 10px;
 }
@@ -66,4 +44,26 @@ table label {
 
 .register_space{
 	margin-top: 40px;
+	margin-left: auto;
+	margin-right: auto;
 }
+.icon{
+	font-size: 54px;
+}
+.fa-user-plus{
+	color: #2196f3;
+}
+.fa-search{
+	color: #ff9800;
+}
+.fa-edit{
+	color: #4caf50;
+}
+.fa-trash{
+	color: #f44336;
+}
+.description{
+	padding-bottom: 50px;
+}
+
+
